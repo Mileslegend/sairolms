@@ -8,7 +8,7 @@ import ToasterProvider from "@/components/providers/ToasterProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tech Vision Academy",
+  title: "SAIRO | LMS",
   description: "Empowering minds, shaping future",
 };
 
